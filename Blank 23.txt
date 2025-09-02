@@ -1,0 +1,263 @@
+Ezrket flatmouth
+MANAGE
+MaleLightfoot HalflingBard 3
+LVL 3
+
+LVL 4
+900 / 2,700 XP
+
+
+SHARE
+
+SHORT REST
+
+LONG REST
+CAMPAIGN:
+Mithril Monastery
+
+
+
+Ability Scores
+
+STRENGTH
++
+1
+12
+
+DEXTERITY
++
+2
+14
+
+CONSTITUTION
++
+1
+13
+
+INTELLIGENCE
++
+2
+15
+
+WISDOM
++
+3
+16
+
+CHARISMA
++
+4
+18
+
+Proficiency Bonus
+PROFICIENCY
++
+2
+BONUS
+Speed
+
+WALKING
+25
+ft.
+SPEED
+Inspiration
+
+
+HEROIC INSPIRATION
+
+HIT POINTS
+HEAL
+
+DAMAGE
+CURRENT
+23
+
+/
+MAX
+Max hit points
+23
+TEMP
+--
+
+Saving Throws
+
+Strength Saving Throw
+
+STR
++
+1
+
+Dexterity Saving Throw
+
+DEX
++
+4
+
+Constitution Saving Throw
+
+CON
++
+1
+
+Intelligence Saving Throw
+
+INT
++
+2
+
+Wisdom Saving Throw
+
+WIS
++
+3
+
+Charisma Saving Throw
+
+CHA
++
+6
+
+against being frightened
+SAVING THROWS
+
+Senses
+
+15
+PASSIVE PERCEPTION
+
+14
+PASSIVE INVESTIGATION
+
+15
+PASSIVE INSIGHT
+Additional Sense Types
+SENSES
+
+Proficiencies and Languages
+ARMOR
+Light Armor
+WEAPONS
+Crossbow, Hand, Longsword, Rapier, Shortsword, Simple Weapons
+TOOLS
+Calligrapher's Supplies, Drum, Lute, Lyre
+LANGUAGES
+Common, Elvish, Halfling
+PROFICIENCIES & TRAINING
+
+Skills
+Proficiency
+PROF
+Modifier
+MOD
+SKILL
+BONUS
+
+DEX
+Acrobatics
++
+3
+
+WIS
+Animal Handling
++
+4
+
+INT
+Arcana
++
+4
+
+STR
+Athletics
++
+2
+
+CHA
+Deception
++
+6
+
+INT
+History
++
+3
+
+WIS
+Insight
++
+5
+
+CHA
+Intimidation
++
+5
+
+INT
+Investigation
++
+4
+
+WIS
+Medicine
++
+4
+
+INT
+Nature
++
+3
+
+WIS
+Perception
++
+5
+
+CHA
+Performance
++
+8
+
+CHA
+Persuasion
++
+8
+
+INT
+Religion
++
+3
+
+DEX
+Sleight of Hand
++
+4
+
+DEX
+Stealth
++
+3
+
+WIS
+Survival
++
+4
+Additional Skills
+SKILLS
+INITIATIVE
+
+INITIATIVE
++
+3
+
+ARMOR CLASS
+ARMOR
+13
+CLASS
+
+Defenses and Conditions
+DEFENSES
+Resistances, Immunities, or Vulnerabilities
+CONDITIONS
+Add Active Conditions
+
+
